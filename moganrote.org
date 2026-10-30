@@ -1,0 +1,9 @@
+#+title: Morganrote Project
+#+author: Aziz Faozi
+
+* <2026-10-30 Fri> Schematics Diupload
+saya mengupload schematics ultrazynq scale dan ada beberapa item yang perlu
+diperhatikan
+1. RAM nya apakah mau dirouting dengan sodim karena menggunakan ram DDR4
+2. Cari tahu alagi apa kaitan beberapa pin DDR.
+3. Apa yang akan terjadi jika terjadi scarcity pada ram. 
